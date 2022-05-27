@@ -79,7 +79,7 @@ public class LinklistImplimentation {
          LinklistImplimentation linklistImplimentation=new LinklistImplimentation();
          linklistImplimentation.insert(12);
          linklistImplimentation.insert(23);
-         linklistImplimentation.insert(45);
+         linklistImplimentation.insert(0);
          linklistImplimentation.insertAtSpecificLocation(1,34);
 //         linklistImplimentation.delete(1);
          linklistImplimentation.insertAtStart(2);
