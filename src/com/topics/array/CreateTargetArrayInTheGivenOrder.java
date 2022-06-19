@@ -13,7 +13,6 @@ public class CreateTargetArrayInTheGivenOrder {
             }
             result[index[i]]=sum;
             sum=0;
-
         }
         return result;
     }

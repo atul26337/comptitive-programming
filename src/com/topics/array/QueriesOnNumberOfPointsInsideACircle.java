@@ -1,5 +1,7 @@
 package com.topics.array;
 
+import java.util.HashMap;
+
 public class QueriesOnNumberOfPointsInsideACircle {
     public int[] countPoints(int[][] points, int[][] queries) {
         int count=0;
